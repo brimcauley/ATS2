@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Go to Register</name>
+   <name>04 - Go to Cart</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>8dfd67b5-f00b-4bf3-af8b-5046cc408311</testCaseGuid>
+   <testCaseGuid>7e8e8c78-0fe2-4280-a7b2-5dc83cd36cee</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05 - Go to Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41e30f9f-70e4-4518-91ef-0110aa77f002</testCaseGuid>
+</TestCaseEntity>

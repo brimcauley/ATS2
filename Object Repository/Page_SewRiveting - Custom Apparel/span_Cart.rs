@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cart</name>
+   <tag></tag>
+   <elementGuidId>d9da63f8-bef7-4490-a849-f69c3e621bd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.top.menu_cart > span.menu_text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main_menu_top']/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e874b0e-dbca-4f78-847e-69e2eaec64b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_text</value>
+      <webElementGuid>5c74e526-88e4-4a8d-bf7a-28b0aa57fbd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cart</value>
+      <webElementGuid>f287c5c2-e734-4f6f-8841-ed0a43fd999e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_menu_top&quot;)/li[@class=&quot;dropdown open&quot;]/a[@class=&quot;top menu_cart&quot;]/span[@class=&quot;menu_text&quot;]</value>
+      <webElementGuid>5a1c7d84-44b7-4d2f-9f91-6010d6d792b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main_menu_top']/li[3]/a/span</value>
+      <webElementGuid>10e99f8a-2643-4106-b284-68ee8235b464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Your Order'])[1]/following::span[1]</value>
+      <webElementGuid>9d1114ac-1ff0-4140-874c-0caf82f6a99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::span[2]</value>
+      <webElementGuid>99c2d6b7-40cf-425d-a55b-87f6cc6bbb8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::span[1]</value>
+      <webElementGuid>cdb33d05-27d9-41e3-8eb5-007554bdfaab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Categories'])[1]/preceding::span[2]</value>
+      <webElementGuid>fb815de7-8b8b-4145-b9cb-c8098ade0a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cart']/parent::*</value>
+      <webElementGuid>a9b51098-5f99-4c54-9f40-71ef0683c7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>7573b51c-d965-4809-b106-af05ddbd0111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cart' or . = 'Cart')]</value>
+      <webElementGuid>b1926260-dbb8-4b0e-82a2-ed347edf5479</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

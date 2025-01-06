@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01 - Go to Register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8dfd67b5-f00b-4bf3-af8b-5046cc408311</testCaseGuid>
+</TestCaseEntity>
